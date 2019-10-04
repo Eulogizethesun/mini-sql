@@ -13,3 +13,8 @@
 # 插入和删除记录
 支持每次一条记录的插入操作；支持每次一条或多条记录的删除操作。
 
+#	系统体系结构
+##MiniSQL体系结构如下：
+
+![1](https://github.com/Eulogizethesun/mini-sql/blob/master/pic/1.png)
+
